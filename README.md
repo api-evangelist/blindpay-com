@@ -64,5 +64,160 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-blindpay-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://blindpay.com/
+BlindPay provides a stablecoin‑based global payments API that enables businesses to move money instantly across borders, create virtual accounts, and integrate compliance tools such as KYC/KYB. The platform offers REST endpoints for payins, payouts, customers, wallets, and offers SDKs in multiple languages. Founded in 2024 in Delaware, BlindPay is registered as an MSB with FinCEN and partners with licensed financial institutions to handle regulated transactions.
+
+**Areas:** FinTech · Payments · Stablecoin · API · Global
+
+## blindpay-com on APIs.io
+
+Everything profiled for blindpay-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blindpay-com/](https://apis.io/providers/blindpay-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [blindpay-com Available API](https://apis.io/apis/blindpay-com/blindpay-com-available-api/) — The Available API from blindpay-com — 4 operation(s) for available.
+- [blindpay-com Bank Accounts API](https://apis.io/apis/blindpay-com/blindpay-com-bank-accounts-api/) — The Bank Accounts API from blindpay-com — 3 operation(s) for bank accounts.
+- [blindpay-com BlindPay API](https://apis.io/apis/blindpay-com/blindpay-com-blindpay-api-api/) — The BlindPay API API from blindpay-com — 0 operation(s) for blindpay api.
+- [blindpay-com Blockchain Wallets API](https://apis.io/apis/blindpay-com/blindpay-com-blockchain-wallets-api/) — The Blockchain Wallets API from blindpay-com — 3 operation(s) for blockchain wallets.
+- [blindpay-com Customers API](https://apis.io/apis/blindpay-com/blindpay-com-customers-api/) — The Customers API from blindpay-com — 5 operation(s) for customers.
+- [blindpay-com Fees API](https://apis.io/apis/blindpay-com/blindpay-com-fees-api/) — The Fees API from blindpay-com — 1 operation(s) for fees.
+- [blindpay-com Instances API](https://apis.io/apis/blindpay-com/blindpay-com-instances-api/) — The Instances API from blindpay-com — 8 operation(s) for instances.
+- [blindpay-com Offramp Wallets API](https://apis.io/apis/blindpay-com/blindpay-com-offramp-wallets-api/) — The Offramp Wallets API from blindpay-com — 2 operation(s) for offramp wallets.
+- [blindpay-com Partner Fees API](https://apis.io/apis/blindpay-com/blindpay-com-partner-fees-api/) — The Partner Fees API from blindpay-com — 2 operation(s) for partner fees.
+- [blindpay-com Payables API](https://apis.io/apis/blindpay-com/blindpay-com-payables-api/) — The Payables API from blindpay-com — 2 operation(s) for payables.
+- [blindpay-com Payin Quotes API](https://apis.io/apis/blindpay-com/blindpay-com-payin-quotes-api/) — The Payin Quotes API from blindpay-com — 2 operation(s) for payin quotes.
+- [blindpay-com Payins API](https://apis.io/apis/blindpay-com/blindpay-com-payins-api/) — The Payins API from blindpay-com — 6 operation(s) for payins.
+- [blindpay-com Payouts API](https://apis.io/apis/blindpay-com/blindpay-com-payouts-api/) — The Payouts API from blindpay-com — 8 operation(s) for payouts.
+- [blindpay-com Payouts Quotes API](https://apis.io/apis/blindpay-com/blindpay-com-payouts-quotes-api/) — The Payouts Quotes API from blindpay-com — 2 operation(s) for payouts quotes.
+- [blindpay-com Solana API](https://apis.io/apis/blindpay-com/blindpay-com-solana-api/) — The Solana API from blindpay-com — 2 operation(s) for solana.
+- [blindpay-com Stellar API](https://apis.io/apis/blindpay-com/blindpay-com-stellar-api/) — The Stellar API from blindpay-com — 2 operation(s) for stellar.
+- [blindpay-com Terms Of Service API](https://apis.io/apis/blindpay-com/blindpay-com-terms-of-service-api/) — The Terms Of Service API from blindpay-com — 2 operation(s) for terms of service.
+- [blindpay-com Transfer Quotes API](https://apis.io/apis/blindpay-com/blindpay-com-transfer-quotes-api/) — The Transfer Quotes API from blindpay-com — 1 operation(s) for transfer quotes.
+- [blindpay-com Transfers API](https://apis.io/apis/blindpay-com/blindpay-com-transfers-api/) — The Transfers API from blindpay-com — 3 operation(s) for transfers.
+- [blindpay-com Upload API](https://apis.io/apis/blindpay-com/blindpay-com-upload-api/) — The Upload API from blindpay-com — 4 operation(s) for upload.
+- [blindpay-com Virtual Accounts API](https://apis.io/apis/blindpay-com/blindpay-com-virtual-accounts-api/) — The Virtual Accounts API from blindpay-com — 4 operation(s) for virtual accounts.
+- [blindpay-com Wallets API](https://apis.io/apis/blindpay-com/blindpay-com-wallets-api/) — The Wallets API from blindpay-com — 9 operation(s) for wallets.
+- [blindpay-com Webhook Endpoints API](https://apis.io/apis/blindpay-com/blindpay-com-webhook-endpoints-api/) — The Webhook Endpoints API from blindpay-com — 4 operation(s) for webhook endpoints.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Blindpay Com Webhooks](https://apis.io/asyncapis/blindpay-com/blindpay-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Blindpay Com Agentic Access](https://apis.io/agentic-access/blindpay-com/blindpay-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BankAccountOut](https://apis.io/schemas/blindpay-com/blindpay-com-bank-account-out/)
+- [CreateBankAccountIn](https://apis.io/schemas/blindpay-com/blindpay-com-create-bank-account-in/)
+- [CreateCustomerIn](https://apis.io/schemas/blindpay-com/blindpay-com-create-customer-in/)
+- [CustomerOut](https://apis.io/schemas/blindpay-com/blindpay-com-customer-out/)
+- [PayoutOut](https://apis.io/schemas/blindpay-com/blindpay-com-payout-out/)
+- [UpdateCustomerIn](https://apis.io/schemas/blindpay-com/blindpay-com-update-customer-in/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blindpay Com Context](https://apis.io/jsonld/blindpay-com/blindpay-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [blindpay-com API Rules](https://apis.io/rules/blindpay-com/blindpay-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blindpay Com Authentication](https://apis.io/security/blindpay-com/blindpay-com-authentication/)
+- [Blindpay Com Domain Security](https://apis.io/security/blindpay-com/blindpay-com-domain-security/)
+- [Blindpay Com Trust Center](https://apis.io/security/blindpay-com/blindpay-com-trust-center/)
+- [Blindpay Com Vulnerability Disclosure](https://apis.io/security/blindpay-com/blindpay-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Blindpay Com Plans Pricing](https://apis.io/plans/blindpay-com/blindpay-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://blindpay.com/)
+- [Documentation](https://blindpay.com/docs/introduction)
+- [Getting started](https://blindpay.com/prompts/integrate-customer-onboarding)
+- [API reference](https://blindpay.com/docs/api/reference)
+- [Pricing](https://blindpay.com/pricing)
+- [Security](https://blindpay.com/security)
+- [Compliance](https://blindpay.com/security)
+- [Terms of service](https://blindpay.com/terms-of-service)
+- [Privacy policy](https://blindpay.com/privacy-policy)
+- [Status](https://status.blindpay.com/)
+
+## API Evangelist rating
+
+**Kin Score 70.1** — exemplar · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 65.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 75.8 |
+
+**Agent readiness 62.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 32.1** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blindpay-com/](https://apis.io/providers/blindpay-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for blindpay-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blindpay-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
